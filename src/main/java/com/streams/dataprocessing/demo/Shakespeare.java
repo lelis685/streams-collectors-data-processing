@@ -5,12 +5,10 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.Comparator;
 import java.util.IntSummaryStatistics;
-import java.util.OptionalInt;
 import java.util.Set;
 import java.util.function.Function;
 import java.util.function.ToIntFunction;
 import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 public class Shakespeare {
 
